@@ -7,7 +7,6 @@
 .atom/
 .buildlog/
 .history
-firebase_options.dart
 .svn/
 migrate_working_dir/
 
